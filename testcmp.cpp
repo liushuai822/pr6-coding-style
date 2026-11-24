@@ -1,7 +1,7 @@
 #include <iostream>
 #include     "mycomplex.h"
 using namespace std;
-int main(){//тестирование класса комплексных чисел
+int main(){//С‚РµСЃС‚РёСЂРѕРІР°РЅРёРµ РєР»Р°СЃСЃР° РєРѕРјРїР»РµРєСЃРЅС‹С… С‡РёСЃРµР»
  Complex A,B(-4), C(23.0, 45.9);
 cout<<A <<","<< B<<","<<C <<endl; A=B+C;
 cout<<"A=B+C,A="<< A<<endl;
